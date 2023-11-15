@@ -1,2 +1,1 @@
-# test_workshop
-Test workshop.
+Hello world!
